@@ -1,5 +1,4 @@
 algoritmo "EX 02"
-
 var
 resl, num:inteiro
 par:real
@@ -11,11 +10,5 @@ enquanto (num < 1000) faca
  fimse
  num <- num + 1
 fimenquanto
- escreval ("O resultado da soma é: ", resl)
-
-
-
-
-
-
+ escreval ("O resultado da soma Ã©: ", resl)
 fimalgoritmo
